@@ -84,6 +84,10 @@ ST7789_WriteString(20,50,"Hello!",Font_11x18,WHITE,BLACK);
 ```
 
 ---
+## Demo
+![WhatsApp Image 2026-03-26 at 7 43 25 PM](https://github.com/user-attachments/assets/54a7b5c9-2143-4d4b-9946-298ae13e5632)
+
+---
 
 ## Why this project is important
 
